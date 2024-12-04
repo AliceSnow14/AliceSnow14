@@ -29,7 +29,6 @@ Explora algunos de mis proyectos favoritos:
 
 ## 📈 Estadísticas de GitHub  
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AliceSnow14&show_icons=true&theme=radical)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AliceSnow14&layout=compact&theme=radical)  
 
 ---
 <!--
